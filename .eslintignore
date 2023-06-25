@@ -1,1 +1,4 @@
 *.json
+tailwind*.js
+tailwind*.ts
+

@@ -38,6 +38,9 @@
         "semi": [
             "error",
             "never"
-        ]
+        ],
+        "react/react-in-jsx-scope":0,
+        "tailwindcss/no-custom-classname":0,
+        "prefer-const":0
     }
 }
